@@ -13,16 +13,6 @@
 
 ---
 
-### 🌟 About Me
-
-- 👀 I'm interested in **solving real-life problems using technology**
-- 💞️ I'm looking to **collaborate on real-world solutions**
-- 🌱 Currently leveling up my skills in **IoT, Machine Learning, and Full-Stack Development**
-- 📫 Reach me at **[musondakaoma10@icloud.com](mailto:musondakaoma10@icloud.com)**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: *I'm building a solar energy optimization platform to help fight power outages in Zambia* ☀️🔋
-
----
 
 ### 🛠️ Languages & Tools
 
