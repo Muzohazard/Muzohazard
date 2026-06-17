@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Muzohazard 👋</h1>
-<h3 align="center">A Software Engineering Student Solving Real-World Problems with Tech 🚀</h3>
+<h1 align="center">Hi there, I'm Muzohazard </h1>
+<h3 align="center">A Software Engineer Solving Real-World Problems with Tech 🚀</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+solutions+with+code...;Exploring+IoT+%2B+Machine+Learning;Always+learning%2C+always+building+%E2%9A%A1" alt="Typing SVG" />
 </p>
